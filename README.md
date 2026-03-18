@@ -96,22 +96,11 @@ and quality.
 <div class="menu-container">
 
 <div class="menu-item">
-<img src="https://images.unsplash.com/photo-1604908176997-125f25cc6f3d">
-<h3>Chicken Biryani</h3>
-<p>Classic aromatic basmati rice cooked with spicy chicken.</p>
-</div>
-
-<div class="menu-item">
 <img src="https://images.unsplash.com/photo-1631452180519-c014fe946bc7">
 <h3>Mutton Biryani</h3>
 <p>Traditional slow cooked mutton biryani.</p>
 </div>
 
-<div class="menu-item">
-<img src="https://images.unsplash.com/photo-1601050690597-df0568f70950">
-<h3>Butter Chicken</h3>
-<p>Creamy tomato based chicken curry.</p>
-</div>
 
 <div class="menu-item">
 <img src="https://images.unsplash.com/photo-1627308595171-d1b5d67129c4">
@@ -131,11 +120,6 @@ and quality.
 <p>Rich Kashmiri style mutton curry.</p>
 </div>
 
-<div class="menu-item">
-<img src="https://images.unsplash.com/photo-1625943553852-781c6dd46faa">
-<h3>Grilled Fish</h3>
-<p>Fresh fish grilled with herbs and spices.</p>
-</div>
 
 <div class="menu-item">
 <img src="https://images.unsplash.com/photo-1562967914-608f82629710">
@@ -374,11 +358,10 @@ color:#8B0000;
 ```
 
 
-## OUTPUT:![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
-
+## OUTPUT:![alt text](image-4.png)
+![alt text](image-5.png)
+![alt text](image-6.png)
+![alt text](image-7.png)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
